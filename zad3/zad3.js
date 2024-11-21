@@ -15,6 +15,5 @@ function range(a,b){
     return wynik;
     
 }
-
 console.log(range(1,5));
 console.log(range(5,1));
